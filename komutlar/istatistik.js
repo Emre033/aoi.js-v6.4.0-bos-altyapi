@@ -5,7 +5,7 @@ module.exports = {
     $title[1;İstatistik]
     $description[1;
     ## Genel Veriler
-    Kanal Sayısı: $allhannelsCount 
+    Kanal Sayısı: $allchannelsCount 
     Sunucu Sayısı: $guildCount
     Toplam Kullanıcı Sayısı: $allMembersCount
     ## Sistem Bilgisi
@@ -18,6 +18,6 @@ module.exports = {
     Mesaj Gecikmesi: $messagePing
     Veritabanı Gecikmesi: $databaseping
     ## Geliştirici Bilgileri
-    Bot Sahibi: $userTag[$botOwnerID]
+    Bot Sahibi: $userTag[Senin IDn]
     `}
     // BU ALTYAPIYI İZİNSİZ PAYLAŞMAK YASAKTIR
